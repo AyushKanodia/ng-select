@@ -850,7 +850,7 @@ export class NgSelectComponent implements OnDestroy, OnChanges, AfterViewInit, C
                 // $event.preventDefault();
             } else if (this.showAddTag) {
                 this.selectTag();
-                // $event.preventDefault();
+                $event.preventDefault();
             } else {
                 this.close();
             }
