@@ -1,6 +1,4 @@
 {
-  "name": "ng-select-tab",
-  "version": "0.0.1",
   "repository": "ng-select/ng-select",
   "engines": {
     "node": ">= 6.9.0",
